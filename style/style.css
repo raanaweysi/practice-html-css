@@ -1,0 +1,83 @@
+@font-face{
+    font-family: tahoma;
+    src: url(fonts/TahomaRegularfont.ttf);
+}
+body{
+    direction: rtl;
+    font-family: tahoma;
+    margin: 0px 0px;
+}
+.container{
+    width: 1450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header-top{
+     background-color: #60BEDA;
+    color: white;
+    padding: 10px;
+}
+.header-top a{
+    text-decoration: none;
+    color: white;
+}
+.header-top a:link{
+    color: white;
+}
+.header-top a:visited{
+    color: white;
+}
+.header-bottom{
+    background-color: white;
+}
+.header-bottom img{
+    width: 55px;
+    height: 50px;
+}
+.header-bottom ul{
+    list-style-type: none;
+    margin: 0px 0px;
+}
+.header-bottom ul li{
+    float: right;
+    padding: 0px 15px;
+    border-right: 1px solid #000;
+    border-left: 1px solid #000;
+}
+.header-bottom ul li i{
+    font-size: 52px;
+    color: #000;
+}
+.main-top{
+    background-image: url(../img/weekwnd.the.coast.jpg);
+    float: right;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+}
+.search-button{
+    top: 558px;
+    position: relative;
+}
+.search-button ul{
+    list-style-type: none;
+    margin: 0px 0px;
+}
+.search-button ul li{
+    float: right;
+    padding: 4px 25px 8px 25px;
+    background-color: white;
+    margin: 10px;
+}
+.search-button ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    text-align: center;
+    color: #000;
+}
+.col{
+    float: right;
+}
+.col-1{width: 8.33%;} .col-2{width: 16.66%;} .col-3{width: 25%;} .col-4{width: 33.33%;} 
+.col-5{width:41.66% ;} .col-6{width: 50%;}
+ .col-7{width: 58.33%;} .col-8{width: 66.66%;} .col-9{width: 75%;} .col-10{width: 83.33%;} 
