@@ -34,7 +34,7 @@ body{
     width: 55px;
     height: 50px;
 }
-.header-bottom ul{
+.header-bottom ul{}
     list-style-type: none;
     margin: 0px 0px;
 }
